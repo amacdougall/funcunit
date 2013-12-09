@@ -2,3 +2,6 @@ testee.log
 node_modules
 lib
 build
+
+# vim artifacts
+*.sw[a-p]
